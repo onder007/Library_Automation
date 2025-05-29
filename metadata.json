@@ -1,0 +1,5 @@
+
+{
+  "name": "Library Automation System",
+  "description": "A React and Tailwind CSS application for managing library books, members, and borrowing transactions, with AI-powered book description generation using the Gemini API."
+}
